@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,MAAM,AAAC,CACH,WAAW,CAAE,cAAe,CAC5B,WAAW,CAAG,GAAI,CAClB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAG,KAAK,CACd,QAAQ,CAAG,KAAK,CAChB,gBAAgB,CAAE,IAAI,CACtB,KAAK,CAAG,IAAK,CACb,SAAS,CAAG,IAAI,CAChB,OAAO,CAAG,IAAI,CACd,eAAe,CAAG,MAAO,CACzB,WAAW,CAAG,MAAO,CCiDrB,WAAW,CADH,ijSAAgB,CD7C3B",
+    "sources": [
+        "../scss/clock.scss",
+        "../scss/_vars.scss"
+    ],
+    "names": [],
+    "file": "clock.min.css"
+}
